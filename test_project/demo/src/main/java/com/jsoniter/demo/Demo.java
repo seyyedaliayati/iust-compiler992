@@ -21,3 +21,6 @@ public class Demo {
         System.out.println(JsonStream.serialize(user));
     }
 }
+
+public class Test {}
+
